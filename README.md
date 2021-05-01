@@ -14,4 +14,4 @@ Mini CNC Plotter firmware, based in TinyCNC https://github.com/MakerBlock/TinyCN
 ## 아직 OLED는 작동하지 않습니다.
 
 ### How-To-Make
-> TODO
+[이 링크를 참고하세요.](https://www.ardumotive.com/new-cnc-plotter.html)
