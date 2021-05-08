@@ -2,7 +2,7 @@
 Mini CNC Plotter firmware, based in TinyCNC https://github.com/MakerBlock/TinyCNC-Sketches
 
 ## Boards
-### MEGA 
+### Arduino MEGA 2560 이상 급의 보드 사용을 강력히 권장합니다. 메모리 부족으로 안정성에 문제가 생길 수 있습니다.
 
 ## Code
 > TODO
