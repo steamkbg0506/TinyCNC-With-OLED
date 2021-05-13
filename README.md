@@ -1,3 +1,5 @@
+# 메모리 문제로 개발이 중단되었습니다.
+
 # TinyCNC-With-OLED
 Mini CNC Plotter firmware, based in TinyCNC https://github.com/MakerBlock/TinyCNC-Sketches
 
